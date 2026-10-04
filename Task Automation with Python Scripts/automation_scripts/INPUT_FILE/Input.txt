@@ -1,0 +1,26 @@
+Company Contact List - Draft
+
+Hi team,
+
+Please reach out to the following people regarding the project:
+
+Sales: sales@example.com
+Support: support@example.co.uk
+HR department: hr.department@company.org
+
+John Doe (Project Lead) - john.doe123@gmail.com
+Jane Smith - jane_smith99@yahoo.com
+Marketing Team - marketing-team@brandname.net
+
+Note: For urgent issues, also cc admin@example.com.
+Duplicate check: sales@example.com
+
+Invalid entries for testing (should NOT be picked up):
+- not-an-email
+- @missingname.com
+- plaintext.com
+- user@@doubled.com
+
+Thanks,
+Office Admin
+office.admin@company.org
